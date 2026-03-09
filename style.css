@@ -1,0 +1,38 @@
+
+
+body{
+  margin:0 ;
+  padding:0 ;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  background-color: #BA0202;
+  height:50px;
+}
+
+
+nav a{
+  color:white;
+  text-decoration: none;
+  margon: auto;
+}
+
+nav a:hover{
+  color:grey;
+}
+
+.galeria{
+  width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
